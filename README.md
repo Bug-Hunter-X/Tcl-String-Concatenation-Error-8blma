@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error in string concatenation. The script incorrectly uses the `expr` command to concatenate strings, leading to an unexpected result. The solution demonstrates the correct way to concatenate strings using the `concat` command or string interpolation.
