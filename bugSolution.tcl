@@ -1,0 +1,1 @@
+proc correct_proc {a b} {return [concat $a $b]} puts [correct_proc 2 3] # or puts "23"
